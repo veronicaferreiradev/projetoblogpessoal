@@ -64,6 +64,7 @@ public class PostagemController {
 		/*
 		 * botãozinho - status -> statuscode 201
 		 */
+		
 	}
 	
 	@PutMapping
